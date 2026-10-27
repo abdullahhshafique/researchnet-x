@@ -222,7 +222,7 @@ brew services start mysql
 
 #### 3. **Clone Repository**
 ```bash
-git clone https://github.com/aadi-abdullah/researchnet-x.git
+git clone https://github.com/abdullahhshafique/researchnet-x.git
 cd researchnet-x
 ```
 
@@ -537,7 +537,7 @@ We welcome contributions! Please follow these steps:
 
 ### 1. **Fork the Repository**
 ```bash
-git clone https://github.com/aadi-abdullah/researchnet-x.git
+git clone https://github.com/abdullahhshafique/researchnet-x.git
 cd researchnet-x
 git checkout -b feature/your-feature-name
 ```
@@ -585,8 +585,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support & Contact
 
 For support, questions, or contributions:
-- **GitHub Issues**: [Create an issue](https://github.com/aadi-abdullah/researchnet-x/issues)
-- **Email**: abdullahsahfique2019@gmail.com
+- **GitHub Issues**: [Create an issue](https://github.com/abdullahhshafique/researchnet-x/issues)
+- **Email**: abdullahhshafique@outlook.com
 - **Documentation**: Check `/docs` folder for detailed guides
 
 ---
@@ -595,9 +595,9 @@ For support, questions, or contributions:
 
 ### 🚀 **Ready to Transform Research Management?**
 
-[![Star](https://img.shields.io/github/stars/aadi-abdullah/researchnet-x?style=social)](https://github.com/aadi-abdullah/researchnet-x/stargazers)
-[![Fork](https://img.shields.io/github/forks/aadi-abdullah/researchnet-x?style=social)](https://github.com/aadi-abdullah/researchnet-x/network/members)
-[![Issues](https://img.shields.io/github/issues/aadi-abdullah/researchnet-x)](https://github.com/aadi-abdullah/researchnet-x/issues)
+[![Star](https://img.shields.io/github/stars/aadi-abdullah/researchnet-x?style=social)](https://github.com/abdullahhshafique/researchnet-x/stargazers)
+[![Fork](https://img.shields.io/github/forks/aadi-abdullah/researchnet-x?style=social)](https://github.com/abdullahhshafique/researchnet-x/network/members)
+[![Issues](https://img.shields.io/github/issues/aadi-abdullah/researchnet-x)](https://github.com/abdullahhshafique/researchnet-x/issues)
 
 **"Empowering Research Through Data-Driven Insights"**
 
